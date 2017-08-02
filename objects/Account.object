@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <validationRules>
+        <fullName>Test_Validation_Rule</fullName>
+        <active>true</active>
+        <errorConditionFormula>IF ( Name = &apos;Test&apos;, true, false )</errorConditionFormula>
+        <errorDisplayField>Name</errorDisplayField>
+        <errorMessage>Not a valid name</errorMessage>
+    </validationRules>
+</CustomObject>
