@@ -5,6 +5,6 @@
         <active>true</active>
         <errorConditionFormula>IF ( Name = &apos;Test&apos;, true, false )</errorConditionFormula>
         <errorDisplayField>Name</errorDisplayField>
-        <errorMessage>Not a valid name</errorMessage>
+        <errorMessage>Not a valid name2</errorMessage>
     </validationRules>
 </CustomObject>
