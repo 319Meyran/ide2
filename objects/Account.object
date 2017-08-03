@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>New_Field_1__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Test Description</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Test Help Text</inlineHelpText>
+        <label>New Field 1</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
     <validationRules>
         <fullName>Test_Validation_Rule</fullName>
         <active>true</active>
