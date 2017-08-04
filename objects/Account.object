@@ -10,6 +10,16 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Checkbox</type>
     </fields>
+    <fields>
+        <fullName>New_Field_3__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>test 3</description>
+        <externalId>false</externalId>
+        <inlineHelpText>test 3</inlineHelpText>
+        <label>New Field 3</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
     <validationRules>
         <fullName>Test_Validation_Rule</fullName>
         <active>true</active>
